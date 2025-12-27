@@ -13,7 +13,7 @@ Preparing for software & AI roles, targeting 2026 placements
 
 ⚡ I believe in learning by building and improving every day.
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/manas.lifts/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/manaskumar-ai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskumar240618@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/manas.lifts/?utm_source=ig_web_button_share_sheet) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaskumar-ai/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:manaskumar240618@gmail.com) 
 <!-- Snake Game Repo View -->
 
 <div align="center">
