@@ -9,7 +9,7 @@ Actively participate in hackathons and tech competitions
 
 Focused on strong fundamentals, problem-solving, and project-based learning
 
-Preparing for software & AI roles, targeting 2026 placements
+Preparing for software & AI roles, targeting 2026 placements  nn
 
 ⚡ I believe in learning by building and improving every day.
 ## 🌐 Socials:
