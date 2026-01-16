@@ -1,7 +1,7 @@
 👋 Hi, I’m Manas Kumar 
 🎓 B.Tech Computer Science Student | AI & ML Enthusiast | Hackathon Builder
  
-📍 India | 📫 manaskumar240618@gmail.com
+📍 India | 📫 manaskumar240618@gmail.com  
 
 Passionate about building real-world, impact-driven projects using AI and software engineering
 
