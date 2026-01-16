@@ -11,7 +11,7 @@ Focused on strong fundamentals, problem-solving, and project-based learning
 
 Preparing for software & AI roles, targeting 2026 placements  
 
-⚡ I believe in learning by building and improving every day. bbbb
+⚡ I believe in learning by building and improving every day. 
 ## 🌐 Socials:
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=black)](https://leetcode.com/u/manaskumar240618/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manaskumar-ai/)
