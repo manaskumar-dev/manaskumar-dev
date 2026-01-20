@@ -5,7 +5,7 @@
 
 Passionate about building real-world, impact-driven projects using AI and software engineering
                    
-Actively participate in hackathons and tech competitions 
+Actively participate in hackathons and tech competitions          
                 
 Focused on strong fundamentals, problem-solving, and project-based learning
 
