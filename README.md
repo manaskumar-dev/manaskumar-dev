@@ -8,7 +8,7 @@ Passionate about building real-world, impact-driven projects using AI and softwa
 Actively participate in hackathons and tech competitions          
                 
 Focused on strong fundamentals, problem-solving, and project-based learning
-
+        
 Preparing for software & AI roles, targeting 2026 placements  
 
 ⚡ I believe in learning by building and improving every day. 
