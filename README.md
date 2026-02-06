@@ -1,5 +1,5 @@
 👋 Hi, I’m Manas Kumar 
-🎓 B.Tech Computer Science Student | AI & ML Enthusiast | Hackathon Builder
+🎓 B.Tech Computer Science Student | AI & ML Enthusiast | Hackathon Builder  
     
 📍 India | 📫 manaskumar240618@gmail.com          
      
